@@ -64,5 +64,5 @@ tasks:
     transmission:
       host: localhost
       port: 9091
-      username: gvara
-      password: transmittion11211
+      username: ******
+      password: ******
