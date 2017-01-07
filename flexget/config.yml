@@ -1,0 +1,68 @@
+tasks:
+  test task:
+    rss:
+      url: https://rarbg.to/rssdd.php?category=1;18;41
+    series:
+      - 'Good Behavior'
+      - 'Scorpion'
+      - 'Lethal Weapon'
+      - 'The Blacklist'
+      - 'Taboo'
+      - 'Suits'
+      - 'Sherlock'
+      - 'Lucifer'
+      - 'Elementary'
+      - 'Gothem'
+      - 'Black Sails'
+      - 'How to Get Away with Murder'
+      - 'Chicago P.D.'
+      - 'Blindspot'
+      - 'Billions'
+      - 'Hap and Leonard'
+      - 'Outsiders'
+      - 'Into the Badlands'
+      - 'Sense8'
+      - 'Orphan Black'
+      - 'Shooter'
+      - 'Frequency'
+      - Another Good Show:
+          quality:
+            720p
+            720p hdtv+
+            480p-720p hdtv divx|xvid
+            hdtv <720p
+    download: /home/gvaram/Downloads/.auto-torrents/
+    # Check for already downloaded or currently downloading movies
+    exists:
+      - "/home/gvaram/Downloads/auto/TV/"
+      - "/home/gvaram/Downloads/"
+      - "/home/gvaram/Downloads/tmp-torrent/"
+  get_imdb_watchlist:
+    priority: 1
+    disable:
+      - seen
+      - seen_info_hash
+    inputs:
+      - rss: http://rss.imdb.com/user/ur45792389/watchlist
+    trakt_lookup: yes
+    accept_all: yes
+    list_add:
+      - movie_list: mymovies
+  match_with_imdb_watchlist:
+    priority: 20
+    disable:
+      - seen
+      - seen_info_hash
+    inputs:
+      - rss: https://rarbg.to/rssdd.php?category=movies
+    trakt_lookup: yes
+    list_match:
+      from:
+        - movie_list: mymovies
+      action: accept
+    #  Torrent Client
+    transmission:
+      host: localhost
+      port: 9091
+      username: gvara
+      password: transmittion11211

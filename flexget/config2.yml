@@ -1,0 +1,52 @@
+templates:
+  tv:
+
+#    manipulate:
+#      - title: &the
+#          replace:
+#            regexp: '^The\W'
+#            format: ''
+#      - filename: *the
+#      - series_name: *the
+
+    private_torrents: no
+
+    series:
+      settings:
+        tv:
+          exact: yes
+          propers: 3 days
+          quality: 720p+
+          set:
+            path: /home/gvaram/Downloads/auto/TV/{{series_name}}
+      tv:
+        - Archer
+        - Beavis and Butt-head
+        - Big Band Theory
+        - Breaking Bad
+        - Dexter
+        - Fringe
+        - Game of Thrones
+        - Mad Men
+        - MythBusters
+        - The Office
+        - Real Time with Bill Maher
+        - South Park
+        - True Blood
+
+tasks:
+  rarbg.to:
+    priority: 1
+    rss: https://rarbg.to/rssdd.php?category=1;18;41
+    template: tv
+
+  ezrss.ag:
+    priority: 2
+    rss: https://eztv.ag/ezrss.xml
+    template: tv
+
+  thepiratebay.org:
+    priority: 4
+    rss: https://thepiratebay.org/rss/top100/205
+    template: tv
+

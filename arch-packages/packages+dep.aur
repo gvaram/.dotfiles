@@ -1,0 +1,420 @@
+community/acpi 1.7-1
+local/adjbacklight 7.3.2-1
+local/aic94xx-firmware 30-9
+local/alinea-themes 2.2.1-1
+extra/alsa-utils 1.1.3-1
+community/android-file-transfer 3.0-2
+local/android-sdk-platform-tools r25.0.3-1
+community/android-udev 20161014-1
+community/atomicparsley 0.9.0-6
+community/atool 0.39.0-5
+extra/audacious 3.8.1-1
+core/autoconf 2.69-4 (base-devel)
+core/automake 1.15-2 (base-devel)
+core/b43-fwcutter 019-1
+core/bash 4.4.005-2 (base)
+extra/bash-completion 2.4-1
+community/beets 1.4.2-1
+core/binutils 2.27-1 (base-devel)
+local/biosdevname 0.7.2-2
+core/bison 3.0.4-2 (base-devel)
+community/bleachbit 1.12-1
+community/blueman 2.0.4-3
+extra/bluez-firmware 1.2-8
+extra/bluez-utils 5.43-2
+extra/brasero 3.12.1-2 (gnome-extra)
+core/btrfs-progs 4.9-1
+local/bullet-train-oh-my-zsh-theme-git v0.0.5.r188.gc62c198-1
+local/burn-cd 1.8.0-3
+core/bzip2 1.0.6-5 (base)
+local/cairo-infinality-ultimate-with-colored-emoji 1.14.6-2
+community/catfish 1.4.2-3
+community/cdemu-daemon 3.0.5-1
+community/cdrtools 3.02a06-1
+local/chrome-remote-desktop 55.0.2883.50-1
+extra/chromium 55.0.2883.87-1
+local/chromium-widevine 1:1.4.8.903-1
+extra/clamav 0.99.2-2
+community/clipgrab 3.6.2-1
+local/clyrics 0.06-1
+community/cmus 2.7.1-8
+local/compiz-manjaro 0.9.13.0-5
+local/compton-conf-git 0.2.1.0.g841c35a-2 (lxqt)
+local/compton-git 0.1_beta2.86.gb7f43ee-1
+extra/conky 1.10.6-1
+core/coreutils 8.26-1 (base)
+extra/cowsay 3.03-9
+community/create_ap 0.4.3-1
+core/cryptsetup 1.7.3-1 (base)
+community/curseofwar 1.2.0-2
+community/deadbeef 0.7.2-1
+local/deadbeef-plugin-gvfs d1851a-1
+community/deepin-icon-theme 15.12.32-1
+extra/deluge 1.3.13+2+g6c73105-1
+community/devede 4.8.6-2
+core/device-mapper 2.02.168-1 (base)
+core/dhcpcd 6.11.5-1 (base)
+core/dialog 1:1.3_20160828-1
+core/diffutils 3.5-1 (base)
+community/dmenu 4.6-1
+core/dosfstools 4.0-3
+archlinuxfr/downgrade 5.4.0-1
+community/dsniff 2.4b1-25
+extra/dvd+rw-tools 7.1-7
+core/e2fsprogs 1.43.3-1 (base)
+local/elementary-xfce-icons 0.7-1
+community/elinks 0.13-17
+extra/evince 3.22.1-1 (gnome)
+community/exfat-utils 1.2.5-1
+extra/exo 0.10.7-2 (xfce4)
+extra/f2fs-tools 1.7.0-1
+core/fakeroot 1.21-2 (base-devel)
+extra/feh 2.18-1
+extra/ffmpeg 1:3.2.2-2
+extra/ffmpeg2.8 2.8.9-2
+extra/ffmpegthumbnailer 2.1.1-1
+core/file 5.29-1 (base base-devel)
+core/filesystem 2016.12-2 (base)
+local/findbrokenpkgs 1.1-1
+core/findutils 4.6.0-2 (base base-devel)
+extra/firefox 50.1.0-1
+archlinuxfr/firefox-flashgot 1.5.6.13-1
+local/flareget 4.4.100-3
+extra/flashplugin 24.0.0.186-1
+local/flattastic-theme 20140311-1
+community/flattr-icon-theme 1.3-2
+core/flex 2.6.1-1 (base-devel)
+local/fontconfig-infinality 2.12.1-1 (infinality-bundle)
+community/fortune-mod 1.99.1-6
+local/franz-bin 4.0.4-4
+local/freetype2-infinality 2.7-1
+local/furiusisomount 0.11.3.1-1
+extra/gamin 0.1.10-8
+extra/garcon 0.4.0-1 (xfce4)
+core/gawk 4.1.4-2 (base base-devel)
+core/gcc 6.2.1-1 (base-devel)
+core/gcc-libs 6.2.1-1 (base)
+local/gentoo-bashrc 2016.0-1
+local/gesture-manager-git 0.1-1
+core/gettext 0.19.8.1-2 (base base-devel)
+extra/gimp 2.8.18-4
+extra/gksu 2.0.2-5
+core/glibc 2.24-2 (base)
+local/glxinfo 8.3.0-1
+extra/gnome-keyring 1:3.20.0+16+gbf8aa97-1 (gnome)
+community/gnome-schedule 2.3.0-1
+local/go-mtpfs-git 20150917-1
+local/googleplaydownloader 2.3-1
+extra/gpart 0.3-1
+extra/gparted 0.27.0-1
+extra/gptfdisk 1.0.1-2
+core/grep 2.27-1 (base base-devel)
+local/grip-git 20120917-1
+core/groff 1.22.3-7 (base-devel)
+core/grub 1:2.02.beta3-4
+local/grub-customizer 5.0.6-1
+local/grub2-theme-archlinux 1.0-4
+extra/gst-libav 1.10.2-1
+extra/gst-plugins-ugly 1.10.2-1
+extra/gstreamer0.10-bad-plugins 0.10.23-20 (gstreamer0.10-plugins)
+extra/gstreamer0.10-ffmpeg 0.10.13-2 (gstreamer0.10-plugins)
+extra/gstreamer0.10-good-plugins 0.10.31-11 (gstreamer0.10-plugins)
+extra/gstreamer0.10-ugly-plugins 0.10.19-16 (gstreamer0.10-plugins)
+local/gtk-theme-arc-git 646.7da711e-1
+extra/gtk-vnc 0.6.0+1+gf966e7b-1
+extra/gtk-xfce-engine 2.10.1-1 (xfce4)
+local/gtk3-nocsd-git r55.82ff5a0-2
+community/guvcview 2.0.4-1
+extra/gvfs 1.30.3-1 (gnome)
+extra/gvfs-afc 1.30.3-1 (gnome)
+extra/gvfs-gphoto2 1.30.3-1 (gnome)
+extra/gvfs-mtp 1.30.3-1 (gnome)
+extra/gvfs-smb 1.30.3-1 (gnome)
+core/gzip 1.8-2 (base base-devel)
+local/hardcode-fixer-git 1:r505.f76024f-1
+extra/haveged 1.9.1-2
+community/hexedit 1.2.13-3
+community/highlight 3.33-1
+extra/htop 2.0.2-1
+community/i3-wm 4.13-1 (i3)
+local/i3blocks 1.4-3
+community/i3lock 2.8-1 (i3)
+community/i3status 2.10-2 (i3)
+extra/icon-naming-utils 0.8.90-3
+extra/imagemagick 6.9.7.1-1
+local/imagewriter 1.10.1420800585.134a9b3-7
+core/inetutils 1.9.4-5 (base)
+extra/intel-ucode 20161104-1
+core/iproute2 4.9.0-1 (base)
+core/iputils 20161105.1f2bb12-1 (base)
+core/ipw2200-fw 3.1-5
+core/iw 4.9-1
+local/j4status-git 382.278da19-1
+local/j4status-plugins-git 52.25cfb5e-1
+core/jfsutils 1.1.15-4 (base)
+extra/joe 4.3-1
+core/less 487-1 (base)
+community/libdbusmenu-gtk3 16.04.0-2
+extra/libisoburn 1.4.6-2
+community/libsynaptics 0.14.6c-7
+core/libtool 2.4.6-6 (base-devel)
+local/libudev0 182-3
+extra/libva-intel-driver 1.7.3-1
+core/licenses 20140629-1 (base)
+local/light 1.0-2
+extra/lightdm 1:1.18.3-1
+extra/lightdm-gtk-greeter 1:2.0.2-1
+community/lightdm-gtk-greeter-settings 1.2.1-5
+core/linux 4.8.13-1 (base)
+core/linux-headers 4.8.13-1
+core/logrotate 3.11.0-1 (base)
+community/lshw B.02.18-2
+extra/lsof 4.89-1
+core/lvm2 2.02.168-1 (base)
+community/lxappearance-gtk3 0.6.2-1 (lxde-gtk3)
+core/m4 1.4.17-2 (base-devel)
+core/make 4.2.1-1 (base-devel)
+core/man-db 2.7.6.1-2 (base)
+core/man-pages 4.09-1 (base)
+community/mari0 1.6-2
+extra/mariadb 10.1.20-1
+core/mdadm 3.4-1 (base)
+community/mediainfo 0.7.91-1
+local/megasync-qt5 2.9.10-1
+archlinuxfr/menulibre 2.1.3-1
+local/mini-xfwm4-theme 1.2-1
+core/mlocate 0.26-5
+local/moon-buggy 1.0.51-1
+community/mopidy 2.1.0-1
+local/mopidy-youtube-git v2.0.2.r7.g8727700-1
+community/mps-youtube 0.2.7.1-2
+community/mpv 1:0.23.0-1
+extra/mtools 4.0.18-3
+local/mundus 3.0.2-1
+core/nano 2.7.3-1 (base)
+community/ncdu 1.12-1
+community/netactview 0.6.4-1
+core/netctl 1.12-2 (base)
+extra/network-manager-applet 1.4.2-1
+extra/networkmanager 1.0.10-1
+extra/networkmanager-openvpn 1.2.6-1
+community/newsbeuter 2.9-5
+extra/nmap 7.40-1
+extra/ntfs-3g 2016.2.22-1
+extra/ntp 4.2.8.p9-1
+local/numix-icon-theme-git 0.r1888.e03eb71-1
+community/numix-themes 2.6.5-1
+local/oh-my-zsh-git r4257.26aae6b-1
+local/oh-my-zsh-powerline-theme-git r81.56021ec-1
+core/openssh 7.4p1-2
+core/openvpn 2.4.0-2
+community/opera 42.0.2393.94-1
+herecura/opera-ffmpeg-codecs 55.0.2883.87-1
+extra/orage 4.12.1-3 (xfce4-goodies)
+community/os-prober 1.71-1
+community/osdlyrics 0.4.3-5
+extra/p7zip 16.02-2
+local/pacaur 4.6.10-1
+core/pacman 5.0.1-4 (base base-devel)
+local/pamac-aur 4.1.6-2
+core/patch 2.7.5-1 (base-devel)
+extra/pavucontrol 3.0-4
+core/pciutils 3.5.2-1 (base)
+core/pcmciautils 018-7 (base)
+local/peerflix 0.36.1-1
+core/perl 5.24.0-2 (base)
+community/perl-anyevent-i3 0.16-2
+extra/perl-file-mimeinfo 0.28-1
+extra/perl-image-exiftool 10.36-1
+community/perl-json-xs 3.02-3
+local/perl-lwp-useragent-cached 0.06-1
+community/perl-term-readline-gnu 1.34-2
+extra/perl-unicode-linebreak 2016.003-1
+community/phantomjs 2.1.1-4
+community/picard 1.3.2-5
+core/pkg-config 0.29.1-2 (base-devel)
+local/playerctl 0.5.0-1
+local/plymouth-theme-arch-charge 20151031-4
+local/plymouth-theme-arch-logo 1-1
+local/plymouth-theme-dark-arch 20151130-2
+community/ponysay 3.0.2-1
+community/powerline 2.5-2
+core/procps-ng 3.3.12-1 (base)
+core/psmisc 22.21-3 (base)
+extra/pulseaudio 9.0-1
+extra/pulseaudio-alsa 2-3
+extra/pulseaudio-bluetooth 9.0-1
+local/py3status 3.3-1
+local/py3status-modules 0.3.0-1
+extra/python-pip 9.0.1-2
+community/python-pyperclip 1.5.27-2
+community/python2-beautifulsoup4 4.5.3-1
+community/python2-musicbrainz2 0.7.4-3
+community/python2-pylast 1.7.0-1
+extra/python2-xdg 0.25-4
+community/qbittorrent 3.3.10-1
+community/qmltermwidget 0.1.0-2
+extra/qt5-graphicaleffects 5.7.1-1 (qt qt5)
+extra/qt5-multimedia 5.7.1-1 (qt qt5)
+local/qt5-styleplugins 5.0.0-5
+community/qt5ct 0.27-1
+community/qtcurve-qt5 1.8.18.git20151017-1 (qtcurve)
+community/ranger 1.7.2-2
+community/raw-thumbnailer 0.2.1-3
+core/reiserfsprogs 3.6.25-1 (base)
+local/remmina-git 1.2.0.rcgit.17.r2.gd1a4a7331-1
+local/remmina-plugin-exec 1.2.3.0-1
+local/remmina-plugin-rdesktop 1.2.3.0-1
+extra/rhythmbox 3.4.1-1
+local/ripole 0.2.0-1
+community/ristretto 0.8.1-1 (xfce4-goodies)
+community/rofi 1.3.0-1
+extra/rp-pppoe 3.12-1
+community/rss-glx 0.9.1-29
+extra/rsync 3.1.2-2
+local/rtv 1.13.0-1
+core/s-nail 14.8.14-1 (base)
+community/scapy 2.3.3-1
+community/screenfetch 3.7.0-1
+community/scrot 0.8.13-1
+core/sed 4.2.2-4 (base base-devel)
+core/shadow 4.4-3 (base)
+community/simplescreenrecorder 0.3.8-1
+local/skypeforlinux 1.14.0.5-1
+community/sl 5.02-4
+extra/source-highlight 3.1.8-10
+community/speedtest-cli 1.0.1-2
+extra/strace 4.15-1
+community/subdownloader 2.0.18-4
+archlinuxfr/sublime-text-dev 3.3126-1
+extra/subversion 1.9.5-1
+core/sudo 1.8.19.p1-1 (base-devel)
+local/super-flat-remix-icon-theme 20161109-1
+local/surfn-icons-git 8.0-8
+community/synapse 0.2.99.2-2
+core/sysfsutils 2.1.0-9 (base)
+local/system-san-francisco-font-git 1.0-1
+core/systemd-sysvcompat 232-6 (base)
+core/tar 1.29-2 (base)
+extra/tcpdump 4.8.1-1
+community/terminator 1.90-1
+extra/terminology 0.9.1-3
+community/terminus-font 4.40-2
+core/texinfo 6.3-1 (base base-devel)
+extra/thunar 1.6.10-3 (xfce4)
+extra/thunar-archive-plugin 0.3.1-6 (xfce4-goodies)
+extra/thunar-media-tags-plugin 0.2.1-2 (xfce4-goodies)
+extra/thunar-volman 0.8.1-2 (xfce4)
+local/tigervnc-viewer 1.7.0-1
+extra/tk 8.6.6-1
+community/tlp 0.9-2
+community/tmux 2.3-1
+local/topmenu-gtk3-git 2016.08.07-1
+local/touchegg-gce-git 1.1-4
+local/touchegg-qt5 1.1.1-2
+local/tovid 0.35.2-3
+extra/transmission-gtk 2.92-5
+community/trash-cli 0.16.12.26-1
+community/ttf-droid 20121017-4
+local/ttf-font-icons 1.1-1
+local/ttf-mac-fonts 1-7
+local/ttf-monaco 6.1-3
+local/ttf-ms-fonts 2.0-10
+community/ttf-overpass 2.1-2
+community/ttf-ubuntu-font-family 0.83-1
+extra/tumbler 0.1.31-2 (xfce4)
+community/udevil 0.4.4-1
+extra/udisks 1.0.5-3
+local/ultra-flat-icons-blue 1.3.2-1
+community/unetbootin 625-1
+extra/unrar 1:5.4.5-1
+extra/unzip 6.0-12
+core/usbutils 008-1 (base)
+core/util-linux 2.29-2 (base base-devel)
+local/vertex-themes 20161009-1
+core/vi 1:070224-2 (base)
+community/viewnior 1.6-2
+extra/vim 8.0.0086-1
+community/virtualbox 5.1.12-1
+local/virtualbox-ext-oracle 5.1.12-1
+community/virtualbox-host-modules-arch 5.1.12-1
+extra/w3m 0.5.3.git20170102-1
+local/wallch 4.15-4
+local/wd719x-firmware 1-3
+extra/weechat 1.6-2
+extra/wget 1.18-3
+local/whatsie 2.1.0-2
+core/which 2.21-2 (base base-devel)
+local/winconn 0.2.14-4
+core/wireless_tools 30.pre9-1
+community/wireshark-gtk 2.2.3-1
+core/wpa_actiond 1.4-2
+core/wpa_supplicant 1:2.6-4
+local/wps-office 10.1.0.5672_a21-1
+community/xarchiver-gtk2 0.5.4.7-1
+extra/xchat 2.8.8-19
+extra/xclip 0.13-1
+extra/xdg-user-dirs 0.15-4
+extra/xdg-utils 1.1.1-4
+extra/xf86-input-keyboard 1.9.0-1 (xorg-drivers)
+extra/xf86-input-mouse 1.9.2-1 (xorg-drivers)
+extra/xf86-input-synaptics 1.8.99.1-1 (xorg-drivers xorg)
+extra/xf86-video-intel 1:2.99.917+746+g169c74f-1 (xorg-drivers xorg)
+extra/xfburn 0.5.4-3 (xfce4-goodies)
+local/xfce-polkit-git 19.fabc2f7-1
+extra/xfce4-appfinder 4.12.0-4 (xfce4)
+extra/xfce4-artwork 0.1.1a_git20110420-4 (xfce4-goodies)
+extra/xfce4-battery-plugin 1.1.0-1 (xfce4-goodies)
+extra/xfce4-clipman-plugin 1.4.1-1 (xfce4-goodies)
+extra/xfce4-cpufreq-plugin 1.1.3-1 (xfce4-goodies)
+extra/xfce4-cpugraph-plugin 1.0.5-4 (xfce4-goodies)
+extra/xfce4-datetime-plugin 0.7.0-1 (xfce4-goodies)
+extra/xfce4-dict 0.7.2-1 (xfce4-goodies)
+extra/xfce4-diskperf-plugin 2.6.0-1 (xfce4-goodies)
+extra/xfce4-eyes-plugin 4.4.5-1 (xfce4-goodies)
+extra/xfce4-fsguard-plugin 1.1.0-1 (xfce4-goodies)
+extra/xfce4-genmon-plugin 3.4.0-3 (xfce4-goodies)
+extra/xfce4-mailwatch-plugin 1.2.0-7 (xfce4-goodies)
+extra/xfce4-mixer 4.11.0-3 (xfce4)
+extra/xfce4-mount-plugin 0.6.7-4 (xfce4-goodies)
+extra/xfce4-mpc-plugin 0.5.0-1 (xfce4-goodies)
+extra/xfce4-netload-plugin 1.3.0-1 (xfce4-goodies)
+extra/xfce4-notes-plugin 1.8.1-2 (xfce4-goodies)
+extra/xfce4-notifyd 0.3.4-1 (xfce4-goodies)
+extra/xfce4-panel 4.12.1-1 (xfce4)
+extra/xfce4-power-manager 1.6.0.41.g9daecb5-1 (xfce4)
+local/xfce4-pulseaudio-plugin 0.2.4-3 (xfce4-goodies)
+extra/xfce4-screenshooter 1.8.2-3 (xfce4-goodies)
+extra/xfce4-sensors-plugin 1.2.6-3 (xfce4-goodies)
+extra/xfce4-session 4.12.1-4 (xfce4)
+extra/xfce4-settings 4.12.1-1 (xfce4)
+extra/xfce4-smartbookmark-plugin 0.5.0-1 (xfce4-goodies)
+extra/xfce4-systemload-plugin 1.2.0-1 (xfce4-goodies)
+extra/xfce4-taskmanager 1.1.0-1 (xfce4-goodies)
+extra/xfce4-terminal 0.8.2-1 (xfce4)
+extra/xfce4-time-out-plugin 1.0.2-2 (xfce4-goodies)
+extra/xfce4-timer-plugin 1.6.0-4 (xfce4-goodies)
+extra/xfce4-verve-plugin 1.1.0-1 (xfce4-goodies)
+extra/xfce4-wavelan-plugin 0.6.0-1 (xfce4-goodies)
+extra/xfce4-weather-plugin 0.8.8-1 (xfce4-goodies)
+community/xfce4-whiskermenu-plugin 1.6.2-1 (xfce4-goodies)
+extra/xfce4-xkb-plugin 0.7.1-2 (xfce4-goodies)
+extra/xfconf 4.12.1-1 (xfce4)
+extra/xfdesktop 4.12.3-3 (xfce4)
+local/xflux 20130901-5
+core/xfsprogs 4.8.0-1 (base)
+extra/xfwm4 4.12.3-2 (xfce4)
+extra/xfwm4-themes 4.10.0-2 (xfce4)
+extra/xorg-server 1.18.4-1 (xorg)
+extra/xorg-server-utils 7.6-4
+extra/xorg-xinit 1.3.4-4
+extra/xscreensaver 5.36-1
+extra/xterm 327-1
+archlinuxfr/yaourt 1.8.1-1
+community/youtube-dl 2017.01.05-2
+local/youtube-viewer-git 3.2.4.1.g81faff4-1
+local/zen-gtk-themes 0.16.0-1
+extra/zip 3.0-7
+extra/zsh 5.3.1-1
+community/zsh-completions 0.22.0-1
+local/zuki-themes 3.14_1-1
