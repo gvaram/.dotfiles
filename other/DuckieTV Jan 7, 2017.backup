@@ -1,0 +1,1723 @@
+{
+  "settings": {
+    "1.1migration": "Fri Dec 11 2015 18:27:48 GMT+0200 (EET)",
+    "install.notify": "1.1.3",
+    "runtime.event": "{\"reason\":\"chrome_update\"}",
+    "snr.date-exceptions": "{\"70366\":\"EEE, MMM D, YYYY\",\"71256\":\"YYYY MM DD\",\"71998\":\"YYYY MM DD\",\"72194\":\"YYYY MM DD\",\"72231\":\"YYYY MM DD\",\"72289\":\"YYYY MM DD\",\"75332\":\"DD MMM YY\",\"77075\":\"YYYY-MM-DD\",\"79274\":\"YYYY MM DD\",\"84312\":\"YYYY MM DD\",\"85355\":\"YYYY MM DD\",\"181561\":\"YYYY MM DD\",\"194751\":\"YYYY MM DD\",\"261676\":\"YYYY MM DD\",\"266718\":\"YYYY MM DD\",\"270261\":\"YYYY MM DD\",\"270262\":\"YYYY MM DD\",\"274099\":\"YYYY MM DD\",\"286373\":\"YYYY MM DD\",\"289574\":\"YYYY MM DD\"}",
+    "snr.lastFetched": "1483772822752",
+    "snr.name-exceptions": "{\"70327\":\"Buffy the Vampire Slayer\",\"70336\":\"The Tonight Show with Jay Leno\",\"70572\":\"Little Rascals\",\"70578\":\"Highway Patrol\",\"70726\":\"Babylon 5\",\"70760\":\"Celebrity Big Brother\",\"70799\":\"Beyblade Burst\",\"70870\":\"The Real World Road Rules Challenge\",\"70994\":\"MASH\",\"71256\":\"The Daily Show\",\"71462\":\"Sharpes\",\"71470\":\"Star Trek The Next Generation\",\"71489\":\"Law Order CI\",\"71699\":\"The Outer Limits\",\"71788\":\"Superman The Animated Series\",\"71985\":\"Taboo\",\"71998\":\"Jimmy Kimmel Live\",\"72073\":\"Star Trek DS9\",\"72150\":\"BBC Later With Jools Holland\",\"72164\":\"The O C\",\"72194\":\"The Ellen Degeneres Show\",\"72224\":\"The Outer Limits\",\"72231\":\"Real Time with Bill Maher\",\"72289\":\"2020 US\",\"72301\":\"Penn Teller Bullshit\",\"72449\":\"Stargate SG1\",\"72546\":\"CSI\",\"72549\":\"Big Brother UK\",\"72553\":\"Mighty Morphin Power Rangers\",\"72663\":\"Accused\",\"72716\":\"QI XL\",\"72829\":\"The Apprentice\",\"73178\":\"Two Guys a Girl a Pizza Place\",\"73244\":\"The Office US\",\"73246\":\"30 Minute Meals\",\"73255\":\"House\",\"73387\":\"The Late Late Show with Craig Ferguson\",\"73545\":\"Battlestar Galactica\",\"73562\":\"Beast Wars Transformers\",\"73587\":\"The Twilight Zone\",\"73599\":\"Dark Shadows 1966\",\"73641\":\"King of Queens\",\"73696\":\"CSI New York\",\"73893\":\"Enterprise\",\"74281\":\"Have I Got News for You\",\"74372\":\"Blue Planet\",\"74512\":\"Wife Swap US\",\"74626\":\"The X Factor UK\",\"74806\":\"MST3K\",\"74897\":\"Hells Kitchen US\",\"74946\":\"C O P S\",\"75032\":\"Cathouse The Series\",\"75088\":\"David Letterman\",\"75166\":\"The Biggest Loser US\",\"75393\":\"The X Factor AU\",\"75567\":\"The Xtra Factor UK\",\"75692\":\"Law Order SVU\",\"75748\":\"The Culture Show Uncut\",\"75805\":\"Its Always Sunny in Philadelphia\",\"76104\":\"The Mole AU\",\"76107\":\"Doctor Who Classic\",\"76119\":\"NOVA\",\"76133\":\"Poirot\",\"76168\":\"Batman The Animated Series\",\"76235\":\"Americas Funniest Home Videos\",\"76237\":\"Big Brother Australia\",\"76703\":\"Pokemon\",\"76706\":\"Big Brother\",\"76736\":\"The Black Adder\",\"76779\":\"WWE Monday Night RAW\",\"76808\":\"Whose Line is it Anyway US\",\"76817\":\"The Ponderosa\",\"76925\":\"Dark Shadows 1991\",\"77120\":\"Aqua Teen Hunger Force\",\"77398\":\"X Files\",\"77444\":\"This Old House Program\",\"77526\":\"Star Trek TOS\",\"77733\":\"Degrassi The Next Generation\",\"77780\":\"G I Joe\",\"78051\":\"Never Mind the Buzzcocks\",\"78075\":\"Beast Machines Transformers\",\"78125\":\"22 Minutes\",\"78804\":\"Doctor Who 2005\",\"78846\":\"Shameless UK\",\"78949\":\"Thomas The Tank Engine Friends\",\"78956\":\"So You Think You Can Dance US\",\"78973\":\"Ken Burns The Civil War\",\"79040\":\"Britains Next Top Model\",\"79177\":\"Life On Mars UK\",\"79212\":\"The Dog Whisperer\",\"79330\":\"Jericho\",\"79389\":\"Nightmares Dreamscapes\",\"79565\":\"The Real Hustle\",\"79590\":\"Dancing With The Stars US\",\"79668\":\"Anthony Bourdain No Reservations\",\"79771\":\"Air Crash Investigation\",\"79824\":\"Naruto Shippuuden\",\"79836\":\"Dragons Den UK\",\"79905\":\"Tim Eric Awesome Show\",\"80018\":\"Nick Cannon Presents Wild N Out\",\"80101\":\"Harry Paul\",\"80159\":\"Sanctuary\",\"80226\":\"Inspector George Gently\",\"80290\":\"Jamie Oliver Jamies Kitchen\",\"80379\":\"The Big Bang Theory\",\"80522\":\"Who Do You Think You Are\",\"80552\":\"Kitchen Nightmares US\",\"80625\":\"MegaStructures\",\"80646\":\"Frontline US\",\"80665\":\"The Next Iron Chef Redemption\",\"80915\":\"La Linea 1972\",\"80964\":\"Yo Gabba Gabba\",\"80994\":\"National Geographic Channel Naked Science\",\"81230\":\"Celebrity Rehab with Dr Drew\",\"81346\":\"Underbelly\",\"81386\":\"Being Human\",\"81391\":\"Wie is de mol\",\"81491\":\"Big Brother After Dark\",\"81559\":\"The Biggest Loser Australia\",\"81563\":\"Border Security AU Front Line\",\"81580\":\"Come Dine With Me UK\",\"82060\":\"Who Do You Think You Are AU\",\"82135\":\"Gruen\",\"82152\":\"Engrenages\",\"82166\":\"Food Network Star\",\"82186\":\"The Comedy Central Roast of\",\"82374\":\"Ultimate Factories\",\"82402\":\"Hard Knocks\",\"82448\":\"Project Runway Australia\",\"82467\":\"Eastbound Down\",\"82548\":\"Would I Lie to You\",\"82918\":\"Diners, Drive-ins Dives\",\"83115\":\"The Worlds Strictest Parents UK\",\"83123\":\"Merlin 2008\",\"83268\":\"Star Wars The Clone Wars 2008\",\"83299\":\"Magics Biggest Secrets Finally Revealed\",\"83430\":\"National Geographic Banged Up Abroad\",\"83462\":\"Castle 2009\",\"83714\":\"Genius\",\"83774\":\"Antiques Roadshow UK\",\"83897\":\"Life After People The Series\",\"83925\":\"Wallander\",\"84133\":\"Manhunters Fugitive Task Force\",\"84146\":\"Secret Millionaire\",\"84312\":\"Click UK\",\"84489\":\"Masterchef UK\",\"85168\":\"How the Earth Was Made\",\"85228\":\"Law Order UK\",\"88321\":\"Tabathas Salon Takeover\",\"88631\":\"Krod Mandoon\",\"88771\":\"The Apprentice Youre Fired\",\"89991\":\"Out of the Wild The Alaskan Experiment\",\"90621\":\"Discovery Channel Sunrise Earth\",\"90651\":\"Selling Houses Australia\",\"90751\":\"Travel Channel Planet Food\",\"92091\":\"MasterChef Australia\",\"92361\":\"Known Universe\",\"94551\":\"Parenthood 2010\",\"95441\":\"NCIS Los Angeles\",\"95521\":\"National Geographic Ancient Megastructures\",\"97731\":\"Tosh 0\",\"100061\":\"Undercover Boss UK\",\"105251\":\"Q A AU\",\"105521\":\"The Colony US\",\"110381\":\"Archer\",\"113901\":\"The Super Hero Squad Show\",\"116811\":\"Dragons Den CA\",\"118001\":\"Beauty the Geek Australia\",\"120431\":\"Food Factory\",\"120541\":\"Russell Howards Good News\",\"122281\":\"Garrows Law Tales from the Old Bailey\",\"122401\":\"Discovery Channel Cool Stuff How it works\",\"122521\":\"The Fresh Beat Band\",\"128051\":\"30 for 30\",\"128521\":\"Million Dollar Listing\",\"129261\":\"Spartacus\",\"131791\":\"Sci Fi Science\",\"132591\":\"7 Days NZ\",\"138761\":\"Arn The Knight Templar\",\"139481\":\"18 Kids Counting\",\"139681\":\"The Smoking Gun Presents The Worlds Dumbest\",\"139941\":\"Childrens Hospital US\",\"140141\":\"Undercover Boss US\",\"142601\":\"Mobile Suit Gundam Unicorn RE 0096\",\"145541\":\"The Marriage Ref\",\"148581\":\"Strike Back Legacy\",\"149101\":\"A League of Their Own UK\",\"152831\":\"Adventure Time\",\"155201\":\"Louie\",\"156771\":\"National Geographic Shark Men\",\"164451\":\"Carlos 2010\",\"164951\":\"Shit My Dad Says\",\"165521\":\"Girls Gone Wild The Search for the Hottest Girl in America\",\"166251\":\"Four Corners\",\"166851\":\"Noise Control NZ\",\"168161\":\"Law Order Los Angeles\",\"168621\":\"Melissa Joey\",\"172381\":\"Silent Library US\",\"174681\":\"Scooby Doo Mystery Incorporated\",\"175101\":\"Travel Channel Culture Shock\",\"178141\":\"My Ghost Story\",\"187351\":\"This is England\",\"189931\":\"RBT AU\",\"192061\":\"Young Justice\",\"193501\":\"XIII The Series\",\"193821\":\"Iron Man 2010\",\"194031\":\"Bobs Burgers\",\"194261\":\"PhoneShop\",\"194751\":\"Conan\",\"195831\":\"Zane Lampreys Drinking Made Easy\",\"196351\":\"TUFF Puppy\",\"196901\":\"Grand Designs AU\",\"197001\":\"Supernatural The Animation\",\"198841\":\"Undercover Boss Au\",\"198861\":\"Film 2014 with Claudia Winkleman\",\"199031\":\"Click Clack As the Wrench Turns\",\"202571\":\"The Trip to Italy\",\"204371\":\"AuctionHunters\",\"205901\":\"Transformers Prime\",\"208111\":\"Gold Rush\",\"210171\":\"The Killing\",\"210771\":\"Cake Boss Next Great Baker\",\"212171\":\"My Little Pony Friendship is Magic\",\"212571\":\"Come Fly With Me\",\"213211\":\"Love Hate\",\"220141\":\"Wolverine 2011\",\"220441\":\"R L Stines The Haunting Hour The Series\",\"221001\":\"10 O Clock Live\",\"222551\":\"Only in America With Larry the Cable Guy\",\"223161\":\"CBC Marketplace\",\"227161\":\"Oprah Presents Master Class\",\"230371\":\"David Attenborough Madagascar\",\"238521\":\"Adam Eva\",\"239851\":\"Penn Teller Fool Us\",\"244061\":\"Steins Gate\",\"246281\":\"King\",\"247381\":\"Superscrimpers\",\"247824\":\"The Voice US\",\"248261\":\"National Terrorism Strike Force San Diego Sport Utility Vehicle\",\"248503\":\"The Hour UK\",\"248596\":\"Atlantis\",\"248618\":\"The Amazing Race Australia\",\"248699\":\"24 Hours In A E\",\"248789\":\"Smash\",\"248812\":\"Dont Trust the Bitch in Apartment 23\",\"248834\":\"Last Man Standing\",\"248835\":\"Once Upon a Time\",\"248836\":\"The River\",\"248841\":\"Scandal US\",\"248935\":\"Touch\",\"248962\":\"Transporter The Series\",\"249229\":\"A N T Farm\",\"249361\":\"Boss\",\"249708\":\"The Car Show\",\"249892\":\"Extreme Chef\",\"249980\":\"Restoration Home\",\"250015\":\"The Indestructibles\",\"250095\":\"The Marriage Ref UK\",\"250153\":\"Top Design Australia\",\"250267\":\"The Food Truck NZ\",\"250331\":\"Richard Hammonds Journey To\",\"250445\":\"The Renovators AU\",\"250525\":\"Hamish Andys Gap Year\",\"250544\":\"Match of the Day Two\",\"251334\":\"Lawless UK\",\"251418\":\"Frozen Planet\",\"251464\":\"Worlds Most Dangerous Roads\",\"251807\":\"Green Lantern The Animated Series\",\"252019\":\"The Bridge 2011\",\"252312\":\"Jessie\",\"252319\":\"Dragons Den How To Win In The Den\",\"253323\":\"Ninjago Masters Of Spinjitzu\",\"253485\":\"The Syndicate UK\",\"253543\":\"All American Muslim\",\"253682\":\"Project Runway Allstars\",\"253931\":\"Rob\",\"253982\":\"Common Law\",\"254067\":\"DUI\",\"254112\":\"Titanic 2012\",\"254798\":\"Stella UK\",\"255045\":\"The L A Complex\",\"255693\":\"Undercover Boss Canada\",\"256204\":\"666 Park Avenue\",\"256300\":\"Richard Hammonds Crash Course\",\"256394\":\"Lab Rats\",\"257550\":\"Bellator FC\",\"257645\":\"Ultimate Spider-man\",\"257804\":\"Too Cute\",\"258310\":\"Comedy Bang Bang\",\"258773\":\"Zero Hour US\",\"259047\":\"VGHS\",\"259055\":\"Nashville 2012\",\"259106\":\"Emily Owens M D\",\"259418\":\"David Attenborough Kingdom Of Plants\",\"259669\":\"DaVincis Demons\",\"259946\":\"Location Location Location AU\",\"260165\":\"Chasing UFOs\",\"260206\":\"Gordon Behind Bars\",\"260489\":\"National Geographic Caught In The Act\",\"260586\":\"Cosmos A Space Time Odyssey\",\"260839\":\"MasterChef Allstars AU\",\"261202\":\"DreamWorks Dragons Riders of Berk\",\"261222\":\"The Burn With Jeff Ross\",\"261240\":\"H+\",\"261690\":\"The Americans\",\"261999\":\"Border Security Canadas Front Line\",\"262353\":\"Leaving UK\",\"262368\":\"Vikings\",\"262377\":\"Sarah Beenys Double Your House for Half the Money\",\"262787\":\"Homefront UK\",\"262927\":\"Ian Hislops Stiff Upper Lip\",\"262954\":\"JoJo s Bizarre Adventure Diamond is Unbreakable\",\"262980\":\"House of Cards 2013\",\"263002\":\"Switch UK\",\"263160\":\"Mind of a Chef\",\"263365\":\"Marvels Agents of S H I E L D\",\"263387\":\"Cedar Cove\",\"263506\":\"Jamies 16 Minute Meals\",\"264030\":\"Avengers Assemble\",\"264085\":\"The Bridge US\",\"264141\":\"Falcon\",\"264347\":\"Ghost Inside My Child\",\"264450\":\"Legit\",\"264535\":\"Storage Wars NY\",\"264679\":\"National Geographic UFO Europe Untold Stories\",\"264776\":\"Adam Hills In Gordon St Tonight\",\"265145\":\"David Attenboroughs Africa\",\"265252\":\"MasterChef Australia The Professionals\",\"265373\":\"David Attenboroughs Galapagos\",\"265393\":\"The Legends of Chima\",\"265406\":\"Out There 2013\",\"265467\":\"Polar Bear Family Me\",\"266388\":\"David Attenboroughs Natural Curiosities\",\"266443\":\"Doctor Blake Mysteries\",\"266449\":\"The Last Leg With Adam Hills\",\"266631\":\"Thunderbirds Are Go\",\"267206\":\"Low Winter Sun US\",\"267260\":\"Intelligence US\",\"267542\":\"Naked Marooned with Ed Stafford\",\"267543\":\"Hulk the Agents of S M A S H\",\"267709\":\"Kesha My Crazy Beautiful Life\",\"268591\":\"The Tomorrow People US\",\"268855\":\"Turbo FAST\",\"269538\":\"Satisfaction CA\",\"269584\":\"Rake US\",\"269586\":\"Brooklyn Nine Nine\",\"269589\":\"Dads\",\"269637\":\"The Michael J Fox Show\",\"269641\":\"Chicago PD\",\"269650\":\"Resurrection US\",\"269651\":\"Mind Games\",\"269653\":\"The Goldbergs\",\"269783\":\"Reckless US\",\"270261\":\"Jimmy Fallon\",\"270262\":\"Seth Meyers\",\"270307\":\"Family SOS with Jo Frost\",\"270528\":\"Blood Oil 2013\",\"270849\":\"I Didnt Do It\",\"270948\":\"Morgan Spurlock Inside Man\",\"271241\":\"Deal With It US\",\"271421\":\"Clarence US\",\"271525\":\"WWE Total Divas\",\"271632\":\"Lucas Bros Moving Company\",\"271728\":\"Pete Holmes Show\",\"271902\":\"Legend of Shelby The Swamp Man\",\"271936\":\"Played CA\",\"271958\":\"Arsenio Hall\",\"271984\":\"Wonderland AU\",\"272135\":\"Turn\",\"272391\":\"Karl Pilkington The Moaning Of Life\",\"273002\":\"I Couldnt Become a Hero So I Reluctantly Decided to Get a Job\",\"273383\":\"The House That 100k Built\",\"273424\":\"David Attenboroughs Rise Of Animals\",\"273616\":\"Pokemon Origins\",\"273761\":\"MasterChef Canada\",\"273986\":\"Breathless UK\",\"274099\":\"At Midnight\",\"274129\":\"Klondike 2014\",\"275039\":\"Sailor Moon Crystal\",\"275493\":\"Backchat With Jack Whitehall His Dad\",\"275723\":\"Panic Button US\",\"275777\":\"Wild Burma\",\"276148\":\"Review With Forrest MacNeil\",\"276312\":\"From Dusk Till Dawn\",\"276360\":\"19-2 CA\",\"276515\":\"Curse of Oak Island\",\"276526\":\"Legend of Mick Dodge\",\"277169\":\"Faking It 2014\",\"277171\":\"Tough Young Teachers UK\",\"277528\":\"Love Child AU\",\"277568\":\"Babylon\",\"277580\":\"30 For 30 Soccer Stories\",\"278976\":\"The Comic Artist His Assistants\",\"279603\":\"The Face AU\",\"279659\":\"StarTalk\",\"279779\":\"Sensitive Skin CA\",\"280027\":\"Off the Bat from the MLB Fan Cave\",\"280339\":\"Food Fighters US\",\"280361\":\"Prey UK\",\"280446\":\"The Tom Jerry Show\",\"280736\":\"The Game UK\",\"280937\":\"Satisfaction US\",\"280939\":\"Rush US\",\"280949\":\"Brandi Jarrod Married to the Job\",\"281297\":\"BikerLive\",\"281467\":\"Matador US\",\"281485\":\"Marvels Agent Carter\",\"281511\":\"Blackish\",\"281535\":\"Forever US\",\"281537\":\"Aquarius\",\"281624\":\"Manhattan Love Story US\",\"281664\":\"Partners 2014\",\"281708\":\"Proof US\",\"281709\":\"The Librarians US\",\"281776\":\"Youre the Worst\",\"282654\":\"Utopia US\",\"282786\":\"Utopia AU\",\"283073\":\"Fat N Furious-Rolling Thunder\",\"283196\":\"Married at First Sight US\",\"283291\":\"Beyonce X10 The Mrs Carter Show World Tour\",\"283345\":\"Sex Drugs Rock Roll\",\"283630\":\"Doraemon US\",\"283761\":\"Kingdom\",\"283930\":\"Kaitou Joker\",\"284076\":\"Thats Incredible 2014\",\"284458\":\"The Chair\",\"284881\":\"My Kitchen Rules New Zealand\",\"285507\":\"The Code AU\",\"286373\":\"The Nightly Show\",\"287236\":\"American Supernatural\",\"288914\":\"Penn Zero\",\"288963\":\"The Royals\",\"289574\":\"Stephen Colbert\",\"290038\":\"Troy-Street Magic\",\"290176\":\"The Comedians US\",\"290865\":\"Salem Rogers Model Of The Year 1998\",\"291206\":\"Broke Ass Game Show\",\"291363\":\"Gogglebox AU\",\"291517\":\"Agent X US\",\"292044\":\"Critical UK\",\"292421\":\"James Corden\",\"292678\":\"Finding Jesus Faith Fact Forgery\",\"292782\":\"Nurse UK\",\"293614\":\"Guardians of the Galaxy\",\"293996\":\"Gakusen Toshi Asterisk\",\"294417\":\"Scream The TV Series\",\"294846\":\"8MMM\",\"294973\":\"Home Fires UK\",\"295438\":\"Shark UK\",\"295642\":\"The Player 2015\",\"295760\":\"Legends of Tomorrow\",\"295988\":\"Why with Hannibal Buress\",\"296175\":\"Britains Busiest Airport Heathrow\",\"296301\":\"The Seventies\",\"296550\":\"Glitch\",\"297084\":\"Not Safe for Work UK\",\"297509\":\"Blue Collar Millionares\",\"298156\":\"ConMan\",\"298167\":\"HBO Documentaries SEX ON\",\"299139\":\"The Magicians\",\"299491\":\"Concrete Revolutio\",\"299499\":\"Anne Happy\",\"301824\":\"11 22 63\",\"303728\":\"Nijiiro Days\",\"304475\":\"Macross Delta\",\"305074\":\"Boku no Hero Academia\",\"305075\":\"Bungou Stray Dogs\",\"305083\":\"Kuma Miko\",\"305089\":\"Re Zero kara Hajimeru Isekai Seikatsu\",\"305099\":\"Mayoiga\",\"305100\":\"Shounen Maid\",\"305104\":\"Tanaka-kun wa Itsumo Kedaruge\",\"306153\":\"Sakamoto desu ga\",\"306741\":\"Netoge no Yome wa Onnanoko ja Nai to Omotta\",\"306847\":\"Seisen Cerberus\",\"307061\":\"Sousei no Onmyouji\"}",
+    "torrenting.client": "Transmission",
+    "torrenting.hashList": "{\"BB53B5FE5FAB1893E99F236063B67E340176D5ED\":false,\"0079EC12EA7A7800858E3638483DDFB5695E1090\":false,\"F38394EA20D0C9C4133A6D2B47B024C72B22E44D\":false,\"8CDD3916303060172FE4AD12B8222CF37C0698EA\":false,\"D920D22A2D65F88E74871746E4F86C61E9480A65\":false,\"158998838EEC4195323401570B8A45F2CB4BE90E\":false,\"D2748543759C5E5A4EA8D6748CB016BA20F6A21C\":false,\"5DD858CB91FA0E905266DA5DB030F988CEDFDEEC\":false,\"A898A31A5B9BB80150549E6379F408705BB986CC\":false,\"7090B330F3D6FD7B1D98F58F830B5B45DAE4B35D\":false,\"0FD48209CE39457CE41A66F1262B5DD63B3742B9\":false,\"A4FB3C8D8EF94D22C64ACCD8FD7E9613EABB7977\":false,\"8AC90F7479CBD82FE79E6A46D0354C972CDC9369\":false,\"D370DD405B49679B9B2CA9F622CCC5BF8257CB83\":false,\"B24AA514C8D9F26AEFADFC2BA22E52FA034BA6C1\":false,\"98FB9F4891E6E6D808E0998C26F330F77B1EDBA0\":false,\"C8A7AB30D69C248A98CADD1D5E1FA0EEFC511FB2\":false,\"498617DE0439628BC8B32A4997699FD9F0143B51\":false,\"67FFF2B704AE64A7ECAFF04B206FCF268A350839\":false,\"9C4D2963B1F93FC16181F0B4A0A66B871DCD17A7\":false,\"8A897A3653AA59869D2CA0A13539A028BC66F758\":false,\"858B8502B4AEF45635570C863E39FF304BC20539\":false,\"2628BF4A749137FD5CF013639035A1E1B4D5918D\":false,\"1044C6DE27B826D226D48909242765BF0ECA4F2A\":false,\"9097808477791F2018CE4EF5C8BA36E6B40F547A\":false,\"D55B4117CABE8577032C9186C513A110C87C4EC9\":false,\"5CFA567FF88530A04B9F81512F11752A6DFF1884\":false,\"FBF04B187CE7D7AB7EC0A0325D968332CDA21B9E\":false,\"52AEB53A4C395E89A4644588CB9494E753D7BB91\":false,\"EF45FDCC6C15258CD97EE00B63B78A553B4DB778\":false,\"2DE40228456CC113B85C897235C7EBF55AEC9D82\":false,\"64DDBD3B1C15DAB480C37856CADE630844A6EA7A\":false,\"864671D5EF30E4D73465D1B41AC6CFACBF5E02E5\":false,\"845BBF517A403C586C9CF574052ACA148962E56D\":false,\"03B84C68B00E0E8031C8745516597EF6FC72051E\":false,\"2A3F8AD26A0234183E2664DEC1A0F2F26DCF44D6\":false,\"B7FCB2BB16DD52F46BE7C8EFAD37BC531CB9D309\":false,\"B3C54497D09D6A86E5BA0D57B02A52973998269E\":false,\"0A7E88B234A822230E8D316A810894EC6128FFC1\":false,\"9F942C1CED7F62A797C3A3074CD6FF6F5320E9F3\":false,\"E2C5C730402C970BB00B3A01A62E39AC5F9677D4\":true}",
+    "trakttv.lastupdated": "1483772829693",
+    "trakttv.refresh_token": "ee0aabeaa8e865e86585ff5eaa7e38cbe455651bdf46406e716052e04d26f69c",
+    "trakttv.token": "b7cad39bd2ad2b4a6ad42d26118827216632f1cc2ae3178b012dea19adacccdd",
+    "upgrade.notify": "1.1.3",
+    "userPreferences": "{\n  \"KickAssTorrents.mirror\": \"https://kat.cr\",\n  \"ThePirateBay.mirror\": \"https://thepiratebay.gd\",\n  \"application.language\": \"en_us\",\n  \"application.locale\": \"en_us\",\n  \"autodownload.minSeeders\": 50,\n  \"autodownload.period\": 1,\n  \"background-rotator.opacity\": \"0.4\",\n  \"main.viewmode\": \"calendar\",\n  \"calendar.mode\": \"date\",\n  \"calendar.show-specials\": true,\n  \"calendar.show-downloaded\": true,\n  \"calendar.show-episode-numbers\": false,\n  \"calendar.startSunday\": true,\n  \"client.determinedlocale\": \"en_us\",\n  \"download.ratings\": true,\n  \"lastSync\": -1,\n  \"library.smallposters\": true,\n  \"library.seriesgrid\": true,\n  \"kc.always\": false,\n  \"qbittorrent.server\": \"http://localhost\",\n  \"qbittorrent.port\": 8080,\n  \"qbittorrent.use_auth\": true,\n  \"qbittorrent.username\": \"admin\",\n  \"qbittorrent.password\": \"admin\",\n  \"qbittorrent32plus.server\": \"http://localhost\",\n  \"qbittorrent32plus.port\": 8080,\n  \"qbittorrent32plus.use_auth\": true,\n  \"qbittorrent32plus.username\": \"admin\",\n  \"qbittorrent32plus.password\": \"admin\",\n  \"series.displaymode\": \"poster\",\n  \"storage.sync\": false,\n  \"sync.progress\": true,\n  \"tixati.server\": \"http://localhost\",\n  \"tixati.use_auth\": true,\n  \"tixati.port\": 8888,\n  \"tixati.username\": \"admin\",\n  \"tixati.password\": \"admin\",\n  \"topSites.enabled\": false,\n  \"topSites.mode\": \"onhover\",\n  \"torrenting.autodownload\": false,\n  \"torrenting.autostop\": true,\n  \"torrenting.autostop_all\": false,\n  \"torrenting.client\": \"Transmission\",\n  \"torrenting.directory\": true,\n  \"torrenting.enabled\": true,\n  \"torrenting.progress\": true,\n  \"torrenting.searchprovider\": \"RarBG\",\n  \"torrenting.searchquality\": \"\",\n  \"torrenting.streaming\": true,\n  \"vuze.server\": \"http://localhost\",\n  \"vuze.port\": 9091,\n  \"vuze.use_auth\": true,\n  \"vuze.username\": \"vuze\",\n  \"vuze.password\": \"\",\n  \"transmission.server\": \"http://localhost\",\n  \"transmission.port\": 9091,\n  \"transmission.use_auth\": true,\n  \"transmission.username\": \"gvara\",\n  \"transmission.password\": \"transmittion11211\",\n  \"trakttv.passwordHash\": null,\n  \"trakttv.sync\": true,\n  \"trakttv.username\": null,\n  \"utorrentwebui.server\": \"http://localhost\",\n  \"utorrentwebui.port\": 8080,\n  \"utorrentwebui.username\": \"admin\",\n  \"utorrentwebui.password\": \"\",\n  \"utorrentwebui.use_auth\": true,\n  \"deluge.server\": \"http://localhost\",\n  \"deluge.port\": 8112,\n  \"deluge.password\": \"deluge\",\n  \"deluge.use_auth\": false,\n  \"subtitles.languages\": [\n    \"eng\"\n  ]\n}",
+    "xem.lastFetched": "1483772822768",
+    "xem.mappings": "[70355,70668,70900,71361,71634,71638,71649,71697,71863,72241,72454,72902,72973,73141,73388,73532,73558,73749,73871,74379,74618,74709,74718,74796,75205,75411,75863,75869,75886,75896,76023,76085,76088,76156,76168,76666,76703,76705,76884,76894,76932,77068,77435,77681,77992,78282,78306,78500,78646,78812,78857,78904,78914,78916,78919,78920,78962,78972,78998,79017,79099,79106,79151,79156,79178,79203,79214,79283,79319,79360,79460,79485,79525,79563,79604,79637,79682,79685,79719,79824,79839,79857,79880,79886,79895,80038,80042,80044,80206,80327,80328,80399,80552,80554,80644,80660,80747,80748,80808,80830,80900,80904,81108,81110,81115,81178,81184,81234,81265,81463,81618,81766,81797,81831,81844,82135,82154,82207,82266,82484,82548,82788,82807,82918,83105,83231,83314,83322,83363,83414,83475,83731,83817,83940,83996,84218,84230,84591,84709,87491,87501,87841,87881,88031,88391,101441,101501,102261,105611,111051,114801,114921,116291,117801,118101,132961,133341,134181,134511,139481,141181,142601,145211,146401,146711,148561,152831,164091,166251,166991,171591,171731,172921,173211,173271,174501,186911,188401,188551,190351,193131,193811,194961,195571,195711,195721,197731,199011,199051,207621,208111,213221,219131,219701,220571,224011,227891,240291,245821,246521,247836,247911,247949,248718,248962,249827,249865,249869,250022,250071,250181,250632,251908,251982,252133,252322,252343,252345,252423,252474,252570,253323,253695,254650,254652,254653,254658,254662,254667,254669,254738,254798,255775,256394,256705,257098,257521,257522,257645,257756,257765,257852,258111,258480,259393,259635,259638,259640,259645,260995,261249,261511,261862,262090,262094,262106,262856,262954,263684,264049,264050,264051,264055,264056,264522,264523,264527,264528,264533,264663,265720,265878,266449,267246,267435,267440,267441,267543,267705,267810,268289,268338,269084,269285,269319,269471,269618,269872,269873,270065,270068,270071,270202,270701,270898,271591,271687,271708,271813,272072,272128,272138,272156,272309,272311,272312,272316,272472,272849,273004,273005,273009,274073,274886,275573,275579,275610,275614,275625,275629,275634,275670,275798,276345,276415,276663,277464,278126,278127,278147,278151,278152,278154,278157,278327,278626,278818,278975,279040,279357,279374,279396,279528,279530,279827,279828,279979,279980,279984,279986,281106,281249,281403,281414,281947,281949,281976,282899,282994,283073,283115,283277,283468,283925,283934,283947,284263,284585,284596,284643,284719,285357,286146,286853,286987,287201,287325,288680,288914,289585,289906,290245,291625,291630,292567,293115,293647,293996,294001,295205,295222,295759,297413,298497,299109,299511,300106,300683,303145,304479,304595,310027,310718]"
+  },
+  "series": {
+    "79481": [
+      {
+        "TVDB_ID": 311257,
+        "watchedAt": 1457342459625,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 311258,
+        "watchedAt": 1457342459539,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 311259,
+        "watchedAt": 1457342459442,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 311260,
+        "watchedAt": 1457342459360,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 311261,
+        "watchedAt": 1457342459245,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 311262,
+        "watchedAt": 1457342459174,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 314051,
+        "watchedAt": 1457342459097,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 314052,
+        "watchedAt": 1457342459021,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 314053,
+        "watchedAt": 1457342458900,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 316389,
+        "watchedAt": 1457342458818,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 316390,
+        "watchedAt": 1457342458664,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 316391,
+        "watchedAt": 1457342458568,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 316392,
+        "watchedAt": 1457342458484,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 316393,
+        "watchedAt": 1457342458403,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 316394,
+        "watchedAt": 1457342458319,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 316395,
+        "watchedAt": 1457342458235,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 320491,
+        "watchedAt": 1457342458151,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 320492,
+        "watchedAt": 1457342458079,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 320493,
+        "watchedAt": 1457342458007,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 320494,
+        "watchedAt": 1457342457934,
+        "downloaded": 1
+      }
+    ],
+    "148581": [],
+    "159591": [],
+    "161511": [
+      {
+        "TVDB_ID": 3279851,
+        "watchedAt": 1462794007378,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 2861921,
+        "watchedAt": 1457342456398,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 3279811,
+        "watchedAt": 1462794007382,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 3444601,
+        "watchedAt": 1462794007382,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 3456131,
+        "watchedAt": 1462794007382,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 3456141,
+        "watchedAt": 1462794007382,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 3456151,
+        "watchedAt": 1462794007382,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 3456161,
+        "watchedAt": 1462794007383,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 3456171,
+        "watchedAt": 1462794007383,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 3650491,
+        "watchedAt": 1462794007383,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 3650501,
+        "watchedAt": 1462794007383,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 3650511,
+        "watchedAt": 1462794007383,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 3650521,
+        "watchedAt": 1462794007383,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4222258,
+        "watchedAt": 1462794007381,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4145965,
+        "watchedAt": 1462794007383,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4220094,
+        "watchedAt": 1462794007383,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4220096,
+        "watchedAt": 1462794007383,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4220097,
+        "watchedAt": 1462794007383,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4232177,
+        "watchedAt": 1462794007383,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4232178,
+        "watchedAt": 1462794007384,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4232179,
+        "watchedAt": 1462794007384,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4238737,
+        "watchedAt": 1462794007384,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4238738,
+        "watchedAt": 1462794007384,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4238739,
+        "watchedAt": 1462794007385,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4238740,
+        "watchedAt": 1462794007386,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4274498,
+        "watchedAt": 1462794007386,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4400381,
+        "watchedAt": 1462794007386,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4457516,
+        "watchedAt": 1462794007386,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4457517,
+        "watchedAt": 1462794007386,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4477134,
+        "watchedAt": 1462794007386,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4477139,
+        "watchedAt": 1462794007386,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4477144,
+        "watchedAt": 1462794007386,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4490817,
+        "watchedAt": 1462794007386,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4490819,
+        "watchedAt": 1462794007386,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4490820,
+        "watchedAt": 1462794007387,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4490821,
+        "watchedAt": 1462794007387,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4490822,
+        "watchedAt": 1462794007387,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4490826,
+        "watchedAt": 1462794007389,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4624133,
+        "watchedAt": 1462794007389,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4699149,
+        "watchedAt": 1462794007389,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4699150,
+        "watchedAt": 1462794007389,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4699151,
+        "watchedAt": 1462794007389,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4699152,
+        "watchedAt": 1462794007389,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4699153,
+        "watchedAt": 1462794007393,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4699154,
+        "watchedAt": 1462794007393,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4699155,
+        "watchedAt": 1462794007394,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4699156,
+        "watchedAt": 1462794007395,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4699157,
+        "watchedAt": 1462794007395,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4699158,
+        "watchedAt": 1462794007395,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4699159,
+        "watchedAt": 1462794007395,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5006617,
+        "watchedAt": 1462794007395,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5006633,
+        "watchedAt": 1462794007395,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5006634,
+        "watchedAt": 1462794007395,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5006635,
+        "watchedAt": 1462794007395,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5006636,
+        "watchedAt": 1462794007396,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5006637,
+        "watchedAt": 1462794007396,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5006638,
+        "watchedAt": 1462794007396,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5006639,
+        "watchedAt": 1462794007397,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5006640,
+        "watchedAt": 1462794007397,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5006641,
+        "watchedAt": 1462794007397,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5006642,
+        "watchedAt": 1462794007397,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5006643,
+        "watchedAt": 1462794007397,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5304561,
+        "watchedAt": 1462794007398,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5433752,
+        "watchedAt": 1462794007398,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5457923,
+        "watchedAt": 1462794007398,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5457924,
+        "watchedAt": 1462794007398,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5457926,
+        "watchedAt": 1462794007398,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5457927,
+        "watchedAt": 1462794007398,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5457928,
+        "watchedAt": 1462794007398,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5500125,
+        "watchedAt": 1462794007399,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5500126,
+        "watchedAt": 1462794007399,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5500127,
+        "watchedAt": 1462794007399,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5500128,
+        "watchedAt": 1462794007400,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5517149,
+        "watchedAt": 1462794007400,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5632568,
+        "watchedAt": 1476224278367,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5668534,
+        "watchedAt": 1476273969570,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5668535,
+        "watchedAt": 1476882527520,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5719829,
+        "watchedAt": 1478022761940,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5719830,
+        "watchedAt": 1478615289996,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5749164,
+        "watchedAt": 1479588237346,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5749165,
+        "watchedAt": 1479905325732,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5749166,
+        "watchedAt": 1480354339306,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5749167,
+        "watchedAt": 1480984339007,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5749168,
+        "watchedAt": 1481637985144,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5749169,
+        "watchedAt": 1482239992015,
+        "downloaded": 1
+      }
+    ],
+    "176941": [
+      {
+        "TVDB_ID": 5776502,
+        "watchedAt": 1483573039233,
+        "downloaded": 1
+      }
+    ],
+    "247808": [],
+    "248742": [],
+    "254986": [
+      {
+        "TVDB_ID": 5312005,
+        "watchedAt": 1457342449751,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5340589,
+        "watchedAt": 1457342449620,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5354228,
+        "watchedAt": 1457342449472,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5355376,
+        "watchedAt": 1457342449193,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5385674,
+        "watchedAt": 1457342448776,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5815465,
+        "watchedAt": 1479588232099,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5816608,
+        "watchedAt": 1479588230348,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5823688,
+        "watchedAt": 1479916563391,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5843760,
+        "watchedAt": 1480015782851,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5843761,
+        "watchedAt": 1480799030895,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5852980,
+        "watchedAt": 1481136757919,
+        "downloaded": 1
+      }
+    ],
+    "255316": [
+      {
+        "TVDB_ID": 5248082,
+        "watchedAt": 1457342448570,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5264905,
+        "watchedAt": 1457342448468,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5654909,
+        "watchedAt": 1475756665573,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5761051,
+        "watchedAt": 1478022752281,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5787910,
+        "watchedAt": 1478615302953,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5799078,
+        "watchedAt": 1479588237347,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5813217,
+        "watchedAt": 1479905325732,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5822181,
+        "watchedAt": 1480354339311,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5842556,
+        "watchedAt": 1481637985148,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5843711,
+        "watchedAt": 1482239992017,
+        "downloaded": 1
+      }
+    ],
+    "259765": [
+      {
+        "TVDB_ID": 4395226,
+        "watchedAt": 1457342456269,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4454974,
+        "watchedAt": 1457342456164,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4454975,
+        "watchedAt": 1457342456061,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4460467,
+        "watchedAt": 1457342455981,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4460468,
+        "watchedAt": 1457342455888,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4460469,
+        "watchedAt": 1457342455800,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4460470,
+        "watchedAt": 1457342455696,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4460471,
+        "watchedAt": 1457342455588,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4460472,
+        "watchedAt": 1457342455503,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4460473,
+        "watchedAt": 1457342455406,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4525974,
+        "watchedAt": 1457342455320,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4528968,
+        "watchedAt": 1457342455226,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4551380,
+        "watchedAt": 1457342455094,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4569890,
+        "watchedAt": 1457342454970,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4569891,
+        "watchedAt": 1457342454885,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4579738,
+        "watchedAt": 1457342454789,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4592190,
+        "watchedAt": 1457342454689,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4592191,
+        "watchedAt": 1457342454571,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4611215,
+        "watchedAt": 1457342454456,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4645594,
+        "watchedAt": 1457342454348,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4838167,
+        "watchedAt": 1457342454215,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4798567,
+        "watchedAt": 1457342454036,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4856936,
+        "watchedAt": 1457342453954,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4856937,
+        "watchedAt": 1457342453818,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4874873,
+        "watchedAt": 1457342453720,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4877238,
+        "watchedAt": 1457342453622,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4927872,
+        "watchedAt": 1457342453515,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4933381,
+        "watchedAt": 1457342453389,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5097912,
+        "watchedAt": 1457342453246,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5097913,
+        "watchedAt": 1457342453123,
+        "downloaded": 1
+      }
+    ],
+    "259866": [],
+    "260315": [],
+    "260338": [],
+    "262407": [
+      {
+        "TVDB_ID": 4762753,
+        "watchedAt": 1462794090825,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4762752,
+        "watchedAt": 1462794090825,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4762756,
+        "watchedAt": 1462794090825,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4762757,
+        "watchedAt": 1462794090825,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4762758,
+        "watchedAt": 1462794090825,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4762759,
+        "watchedAt": 1462794090826,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4763600,
+        "watchedAt": 1462794090826,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4769878,
+        "watchedAt": 1462794090826,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4769879,
+        "watchedAt": 1462794090826,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5008084,
+        "watchedAt": 1462794090826,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5111563,
+        "watchedAt": 1462794090826,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5111566,
+        "watchedAt": 1462794090826,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5111568,
+        "watchedAt": 1462794090826,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5111569,
+        "watchedAt": 1462794090830,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5111570,
+        "watchedAt": 1462794090831,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5111573,
+        "watchedAt": 1462794090831,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5111574,
+        "watchedAt": 1462794090831,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5111575,
+        "watchedAt": 1462794090831,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5112031,
+        "watchedAt": 1462794090831,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5392170,
+        "watchedAt": 1462794090831,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5461405,
+        "watchedAt": 1462794090838,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5461406,
+        "watchedAt": 1462794090844,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5461407,
+        "watchedAt": 1462794090844,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5461408,
+        "watchedAt": 1462794090845,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5461409,
+        "watchedAt": 1462794090845,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5461410,
+        "watchedAt": 1462794090845,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5461411,
+        "watchedAt": 1462794090847,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5461412,
+        "watchedAt": 1462794090847,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5461413,
+        "watchedAt": 1462794090847,
+        "downloaded": 1
+      }
+    ],
+    "264991": [],
+    "265074": [
+      {
+        "TVDB_ID": 5288478,
+        "watchedAt": 1457342451879,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5288479,
+        "watchedAt": 1457342451787,
+        "downloaded": 1
+      }
+    ],
+    "265766": [],
+    "266189": [
+      {
+        "TVDB_ID": 5330298,
+        "watchedAt": 1457342450035,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5376152,
+        "watchedAt": 1457342449853,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5668489,
+        "watchedAt": 1475687907745,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5739011,
+        "watchedAt": 1476627829160,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5772638,
+        "watchedAt": 1479588242307,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5797150,
+        "watchedAt": 1478955856265,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5820903,
+        "watchedAt": 1483737474779,
+        "downloaded": 1
+      }
+    ],
+    "268156": [],
+    "269110": [
+      {
+        "TVDB_ID": 5444139,
+        "watchedAt": 1475687958048,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5444140,
+        "watchedAt": 1476112146803,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5444141,
+        "watchedAt": 1476627840920,
+        "downloaded": 1
+      }
+    ],
+    "269613": [
+      {
+        "TVDB_ID": 5360674,
+        "watchedAt": 1457342451251,
+        "downloaded": 1
+      }
+    ],
+    "269641": [
+      {
+        "TVDB_ID": 5830005,
+        "watchedAt": 1479588213543,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5764603,
+        "watchedAt": 1479588218550,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5764604,
+        "watchedAt": 1479588218551,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5870350,
+        "watchedAt": 1483586608028,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5794367,
+        "watchedAt": 1483605959620,
+        "downloaded": 1
+      }
+    ],
+    "269689": [
+      {
+        "TVDB_ID": 4596699,
+        "watchedAt": 1457342456823,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4854796,
+        "watchedAt": 1457342456733,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5361051,
+        "watchedAt": 1457342456607,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5378712,
+        "watchedAt": 1457342456517,
+        "downloaded": 1
+      }
+    ],
+    "269750": [],
+    "270633": [],
+    "271910": [
+      {
+        "TVDB_ID": 5592804,
+        "watchedAt": 1475687937467,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5619680,
+        "watchedAt": 1475687933095,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5619681,
+        "watchedAt": 1476627845538,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5662780,
+        "watchedAt": 1476627856024,
+        "downloaded": 1
+      }
+    ],
+    "273181": [],
+    "274431": [
+      {
+        "TVDB_ID": 5379147,
+        "watchedAt": 1457342451422,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5392871,
+        "watchedAt": 1457342451338,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5767244,
+        "watchedAt": 1478094251462,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5767245,
+        "watchedAt": 1479588234884,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5812963,
+        "watchedAt": 1479588239255,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5821795,
+        "watchedAt": 1479905327289,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5832031,
+        "watchedAt": 1480531704730,
+        "downloaded": 1
+      }
+    ],
+    "276562": [
+      {
+        "TVDB_ID": 4851167,
+        "watchedAt": 1457342451156,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4851168,
+        "watchedAt": 1457342451073,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4851169,
+        "watchedAt": 1457342450981,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4851170,
+        "watchedAt": 1457342450857,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4851171,
+        "watchedAt": 1457342450710,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4851172,
+        "watchedAt": 1457342450570,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 4851174,
+        "watchedAt": 1457342450419,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5075664,
+        "watchedAt": 1457342450288,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5528566,
+        "watchedAt": 1475687882013,
+        "downloaded": 1
+      }
+    ],
+    "277165": [],
+    "279536": [
+      {
+        "TVDB_ID": 4825218,
+        "watchedAt": 1462794081762,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5415406,
+        "watchedAt": 1462794081763,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5415407,
+        "watchedAt": 1462794081763,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5429012,
+        "watchedAt": 1462794081763,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5429013,
+        "watchedAt": 1462794081763,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5429014,
+        "watchedAt": 1462794081764,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5429015,
+        "watchedAt": 1462794081764,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5429016,
+        "watchedAt": 1462794081764,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5429017,
+        "watchedAt": 1462794081764,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5500159,
+        "watchedAt": 1462794081764,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5532805,
+        "watchedAt": 1462794081764,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5532806,
+        "watchedAt": 1462794081764,
+        "downloaded": 1
+      }
+    ],
+    "281620": [
+      {
+        "TVDB_ID": 5381918,
+        "watchedAt": 1457342451974,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5720145,
+        "watchedAt": 1475830939524,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5720146,
+        "watchedAt": 1475830935255,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5720147,
+        "watchedAt": 1476627833562,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5794366,
+        "watchedAt": 1479588242307,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5810149,
+        "watchedAt": 1478955862300,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5815613,
+        "watchedAt": 1479588226274,
+        "downloaded": 1
+      }
+    ],
+    "281630": [
+      {
+        "TVDB_ID": 5002088,
+        "watchedAt": 1457342451708,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5336541,
+        "watchedAt": 1457342451620,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5348835,
+        "watchedAt": 1457342451538,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5654933,
+        "watchedAt": 1476273925430,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5682123,
+        "watchedAt": null,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5713819,
+        "watchedAt": 1478032724841,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5735609,
+        "watchedAt": 1479588234884,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5744133,
+        "watchedAt": 1479588239255,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5761762,
+        "watchedAt": 1479905327290,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5775705,
+        "watchedAt": 1481805491737,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5778051,
+        "watchedAt": 1482325347854,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5823350,
+        "watchedAt": 1483461146809,
+        "downloaded": 1
+      }
+    ],
+    "281662": [],
+    "283761": [],
+    "284190": [
+      {
+        "TVDB_ID": 5311261,
+        "watchedAt": 1457342452052,
+        "downloaded": 1
+      }
+    ],
+    "289079": [
+      {
+        "TVDB_ID": 5324552,
+        "watchedAt": 1457342450118,
+        "downloaded": 1
+      }
+    ],
+    "289590": [],
+    "290508": [],
+    "292157": [],
+    "295642": [
+      {
+        "TVDB_ID": 5356243,
+        "watchedAt": 1457342452407,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5356244,
+        "watchedAt": 1457342452282,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5381698,
+        "watchedAt": 1457342452148,
+        "downloaded": 1
+      }
+    ],
+    "295647": [
+      {
+        "TVDB_ID": 5361049,
+        "watchedAt": 1457342452679,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5384376,
+        "watchedAt": 1457342452547,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5736182,
+        "watchedAt": 1475830949356,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5736184,
+        "watchedAt": 1476627823953,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5797149,
+        "watchedAt": 1479588213543,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5810668,
+        "watchedAt": 1479588218550,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5832345,
+        "watchedAt": 1483586657073,
+        "downloaded": 1
+      }
+    ],
+    "295680": [],
+    "295685": [
+      {
+        "TVDB_ID": 5662210,
+        "watchedAt": 1475687923140,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5684178,
+        "watchedAt": 1476627810039,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5706000,
+        "watchedAt": 1478022757778,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5714400,
+        "watchedAt": 1479588234884,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5738210,
+        "watchedAt": 1479588239255,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5773090,
+        "watchedAt": 1479905327290,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5773091,
+        "watchedAt": 1480531704734,
+        "downloaded": 1
+      }
+    ],
+    "295743": [],
+    "296762": [
+      {
+        "TVDB_ID": 5626064,
+        "watchedAt": 1475694563886,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5748834,
+        "watchedAt": 1476554125986,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5748838,
+        "watchedAt": 1479158967298,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5755397,
+        "watchedAt": 1478615294947,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5765511,
+        "watchedAt": 1479588237346,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5765512,
+        "watchedAt": 1479905325732,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5765513,
+        "watchedAt": 1480354339310,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5765514,
+        "watchedAt": 1480984339007,
+        "downloaded": 1
+      }
+    ],
+    "296952": [],
+    "298085": [],
+    "298368": [],
+    "299400": [],
+    "300472": [],
+    "303236": [],
+    "303598": [],
+    "304262": [],
+    "305687": [],
+    "306718": [],
+    "306753": [
+      {
+        "TVDB_ID": 5656792,
+        "watchedAt": 1480799030892,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5656793,
+        "watchedAt": 1481136757915,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5656795,
+        "watchedAt": 1481805489544,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5656796,
+        "watchedAt": 1482408671400,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5656797,
+        "watchedAt": 1483059558512,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5656798,
+        "watchedAt": 1483586608026,
+        "downloaded": 1
+      }
+    ],
+    "308772": [
+      {
+        "TVDB_ID": 5715619,
+        "watchedAt": 1475687912469,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5761823,
+        "watchedAt": 1476273935407,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5783785,
+        "watchedAt": 1479238120348,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5783786,
+        "watchedAt": 1479238125041,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5783787,
+        "watchedAt": 1479588243990,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5824029,
+        "watchedAt": 1480798863834,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5833725,
+        "watchedAt": 1483059562511,
+        "downloaded": 1
+      }
+    ],
+    "311790": [
+      {
+        "TVDB_ID": 5734361,
+        "watchedAt": 1475687895646,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5734362,
+        "watchedAt": 1475759039191,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5760574,
+        "watchedAt": 1476627817947,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5791588,
+        "watchedAt": 1479588213542,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5801397,
+        "watchedAt": 1479588218550,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5818556,
+        "watchedAt": 1480666785761,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5818557,
+        "watchedAt": 1481239049757,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5818558,
+        "watchedAt": 1483586664100,
+        "downloaded": 1
+      }
+    ],
+    "311900": [
+      {
+        "TVDB_ID": 5619484,
+        "watchedAt": 1479916563394,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5672536,
+        "watchedAt": 1480015782853,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5672537,
+        "watchedAt": 1480799030896,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5672538,
+        "watchedAt": 1481136757918,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5672539,
+        "watchedAt": 1481805489548,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5672540,
+        "watchedAt": 1482408671401,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5672541,
+        "watchedAt": 1483059555322,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5841546,
+        "watchedAt": 1483586608028,
+        "downloaded": 1
+      }
+    ],
+    "312423": [],
+    "312505": [
+      {
+        "TVDB_ID": 5720159,
+        "watchedAt": 1479905331179,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5750710,
+        "watchedAt": 1479905333195,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5750711,
+        "watchedAt": 1479905329422,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5750712,
+        "watchedAt": 1480246020517,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5826656,
+        "watchedAt": 1480246025947,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5826657,
+        "watchedAt": 1480984335134,
+        "downloaded": 1
+      },
+      {
+        "TVDB_ID": 5826658,
+        "watchedAt": 1481458855952,
+        "downloaded": 1
+      }
+    ]
+  }
+}
