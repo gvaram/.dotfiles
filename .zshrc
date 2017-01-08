@@ -8,8 +8,8 @@
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 #  ZSH_THEME="random"
-  ZSH_THEME="robbyrussell"
-#   ZSH_THEME="af-magic"
+#  ZSH_THEME="robbyrussell"
+   ZSH_THEME="af-magic"
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
 
@@ -30,7 +30,7 @@
 # DISABLE_AUTO_TITLE="true"
 
 # Uncomment the following line to enable command auto-correction.
-# ENABLE_CORRECTION="true"
+  ENABLE_CORRECTION="true"
 
 # Uncomment the following line to display red dots whilst waiting for completion.
 # COMPLETION_WAITING_DOTS="true"
@@ -52,7 +52,7 @@
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git archlinux cmake tmux vim-interaction)
+plugins=(git tmux vim-interaction)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -71,7 +71,7 @@ source $ZSH/oh-my-zsh.sh
 # fi
 
 # Compilation flags
-# export ARCHFLAGS="-arch x86_64"
+ export ARCHFLAGS="-arch x86_64"
 
 # ssh
 # export SSH_KEY_PATH="~/.ssh/rsa_id"
@@ -110,6 +110,7 @@ alias PD='sudo pacman -S --asdeps'
 alias YD='yaourt -S --asdeps'
 alias conf='vim /home/gvaram/.config/i3/config'
 alias cro='gnome-schedule'
+alias svim='sudo vim'
 #
 # # ex - archive extractor
 # # usage: ex <file>
