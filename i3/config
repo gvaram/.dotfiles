@@ -245,19 +245,23 @@ bindsym XF86AudioPause exec playerctl pause
 bindsym XF86AudioNext exec playerctl next
 bindsym XF86AudioPrev exec playerctl previous
 
-exec_always feh --bg-scale /home/gvaram/Pictures/wallhaven-135940.jpg
+exec_always feh --bg-scale /home/gvaram/Pictures/gmver6u\ \(2\).jpg
+#exec_always feh --bg-scale /home/gvaram/Pictures/wallhaven-135940.jpg
 exec --no-startup-id nm-applet
 exec --no-startup-id rhythmbox
-exec --no-startup-id whatsie
+exec --no-startup-id transmission-gtk
+
+#exec --no-startup-id whatsie
 #exec wmctrl -r "whatsie" -b remove,demands_attention
-exec --no-startup-id megasync
-exec --no-startup-id pamac-tray
+#exec --no-startup-id megasync
+#exec --no-startup-id pamac-tray
 exec --no-startup-id /usr/lib/xfce-polkit/xfce-polkit
+exec --no-startup-id /usr/bin/sonarr
 #exec synapse --startup
 exec_always synclient TapButton1=1 
 exec_always synclient TapButton2=3
 exec --no-startup-id setxkbmap -layout us,ge -option grp:alt_shift_toggle
-exec --no-startup-id compton
+exec --no-startup-id compton --config ~/.config/compton.conf -b
 exec xflux -l 39.4699 -g 0.3763
 assign [class="Rhythmbox"] $workspace10
 assign [class="Franz"] $workspace5
