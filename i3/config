@@ -33,7 +33,7 @@ floating_modifier $mod
 for_window [class="mpv"] floating enable
 for_window [class="VirtualBox"] floating enable
 #for_window [class="Opera"] floating enable
-
+for_window [class="Xfce4-terminal"] floating enable
 # start a terminal
 bindsym $mod+Return exec terminator
 # start a chromium
